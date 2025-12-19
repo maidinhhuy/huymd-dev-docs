@@ -1,4 +1,6 @@
 On this time, I'm using t3.large AWS EC2 instance for install database development. It very cheap.
+
+`That is script for lambda function`
 ```python
 import boto3
 import json

@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "Create EC2 instance automatic turn off for development"
             }
-          },
-          {
-            "id": "3a15baacb068bcf0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a15baacb068bcf0",
+  "active": "f19411adfec71ab6",
   "lastOpenFiles": [
     "01_Inbox/Draft content.md",
     "01_Inbox/Create EC2 instance automatic turn off for development.md",

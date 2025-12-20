@@ -3,6 +3,8 @@ On this time, I'm using t3.large AWS EC2 instance for install database developme
 `That is script for lambda function`
 Okey, that is update content
 
+Hello github action
+
 ```python
 import boto3
 import json

@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f19411adfec71ab6",
+  "active": "794970624ad22da5",
   "lastOpenFiles": [
+    "package.json",
     "01_Inbox/Draft content.md",
     "01_Inbox/Create EC2 instance automatic turn off for development.md",
     "Welcome.md",

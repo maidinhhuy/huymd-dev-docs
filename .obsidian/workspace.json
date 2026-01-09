@@ -25,14 +25,10 @@
             "id": "f19411adfec71ab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Inbox/Create EC2 instance automatic turn off for development.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Create EC2 instance automatic turn off for development"
+              "title": "New tab"
             }
           }
         ],
